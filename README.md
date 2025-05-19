@@ -1,5 +1,10 @@
 ## Hi there 👋
+⚡ Fun fact I like reading books
+Connect with me:
+rizqiridwannawawi rizqirdwn
 
+Languages and Tools:
+css3 html5 javascript python
 <!--
 **RizwanNawawi/RizwanNawawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
